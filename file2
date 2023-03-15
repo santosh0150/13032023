@@ -1,2 +1,127 @@
-gkgkhhvhkv
-tdtc
+1  yum update -y
+    2  git -v
+    3  yum update
+    4  pwd
+    5  cd /home/ec2-user
+    6  git init
+    7  yum install git
+    8  git -v
+    9  git status
+   10  git init
+   11  git status
+   12  file1
+   13  cat file1
+   14  touch file1
+   15  git status
+   16  git add file1
+   17  git status
+   18  git commit -m file1
+   19  git status
+   20  git status
+   21  git commit -m "my commit"
+   22  git status
+   23  git push
+   24   git remote add santosh0150
+   25   git remote add santosh0150 git@github.com:santosh0150/13032023.git
+   26  git status
+   27  ll
+   28   git remote add santosh0150 git@github.com:santosh0150/13032023.git
+   29  git push
+   30   git push --set-upstream santosh0150 master
+   31  git config -l
+   32  mkdir Ram
+   33  cd Ram
+   34  rm Ram
+   35  rm -f Ram
+   36  mkdir Git_projects
+   37  cd Git_projects/
+   38  git init
+   39  ll
+   40  cd .git
+   41  ll
+   42  cat branches
+   43  cat config
+   44  cd ..
+   45  touch file1.html
+   46  vi file1.html
+   47  git add .
+   48  git status
+   49  touch file2
+   50  git status
+   51  git rm --cached file1.html
+   52  git status
+   53  git add .
+   54  git status
+   55  git commit -m "my 1st commit"
+   56  git status
+   57  vi file2
+   58  git status
+   59  git log
+   60  git log -p
+   61  git show 0969fd75b8538e254921baddb18bda9a8fa60c76
+   62  diff --git file2
+   63  git diff --git file2
+   64  git diff
+   65  vi file1
+   66  vi file1.html
+   67  git diff
+   68  git diff --staged
+   69  git add -p
+   70  touch .gitignore
+   71  vi .gitignore
+   72  vi .gitignore
+   73  touch file3.txt
+   74  vi file3.txt
+   75  git status
+   76  git add .
+   77  git status
+   78  git commit -m "2nd commint"
+   79  git status
+   80  vi file1.html
+   81  git status
+   82  git checkout file1.html
+   83  cat file1.html
+   84  git reset HEAD file1.html
+   85  cat file1.html
+   86  cat file2
+   87  cat file2
+   88  git reset HEAD file2
+   89  cat file2
+   90  git status
+   91  vi file2
+   92  cat file2
+   93  git add file2
+   94  git cheackout file2
+   95  git checkout file2
+   96  git reset HEAD file2
+   97  cat file2
+   98  git reset HEAD -p
+   99  git reset master -p
+  100  git revert HEAD
+  101  git commit -m file2 "3rd commit"
+  102  git commit -m  "3rd commit"
+  103  git add .
+  104  git status
+  105  git commit -m "3rd commit"
+  106  cat file2
+  107  git revert HEAD
+  108  git branch
+  109  git log --graph --oneline
+  110  cat file2
+  111  git add remote
+  112* git a
+  113  git remote
+  114  git remote https://github.com/santosh0150/13032023.git
+  115  git remote add  https://github.com/santosh0150/13032023.git
+  116  git push
+  117  git remote add master https://github.com/santosh0150/13032023.git
+  118  git push
+  119  git push master
+  120   git push --set-upstream
+  121   git push --set-upstream master master
+  122   git push --set-upstream master master
+  123  git remote -v
+  124  git pull
+  125  ll
+  126  history
+
