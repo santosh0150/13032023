@@ -1,7 +1,4 @@
-1  yum update -y
-    2  git -v
-    3  yum update
-    4  pwd
+
     5  cd /home/ec2-user
     6  git init
     7  yum install git
